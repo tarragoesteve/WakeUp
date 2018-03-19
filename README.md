@@ -1,6 +1,6 @@
 # Wake Up
 
-The aim of this project is to generate Wake Up words.
+The aim of this project is to generate sentences in order to use them as WakeUp command.
 
 ## Architecture
 
@@ -12,7 +12,7 @@ The input will be a random numpy array and the output will be a sequence of spec
 
 ### Discriminant Network (DN)
 
-Tells if a sound is a word or not
+The input will be a a sequence of spectrogram's and the output will be the probability of beeing a sentence.
 
 [Image of the architecture]
 
