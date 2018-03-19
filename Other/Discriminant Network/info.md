@@ -1,0 +1,1 @@
+https://github.com/jonbruner/generative-adversarial-networks/blob/master/gan-script.py but recurrent input
