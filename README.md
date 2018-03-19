@@ -2,26 +2,29 @@
 
 The aim of this project is to generate Wake Up words.
 
-##Architecture
+## Architecture
 
-###Generative Network (GN)
+### Generative Network (GN)
 
 The input will be a random numpy array and the output will be a sequence of spectrogram's.
 
 [Image of the architecture]
 
-###Discriminant Network (DN)
+### Discriminant Network (DN)
 
 Tells if a sound is a word or not
 
-
-###Encoder-Decoder (ED)
-
-The input of the encoder will be a sequence of spectrogram's. The output will be one or more different phonemic transcriptions with it's respective probability.
 [Image of the architecture]
 
 
-##How to
+### Encoder-Decoder (ED)
+
+The input of the encoder will be a sequence of spectrogram's. The output will be one or more different phonemic transcriptions with it's respective probability.
+
+[Image of the architecture]
+
+
+## Procedure
 1. Train the DN with words and noise
 
 Loop
