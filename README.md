@@ -1,6 +1,6 @@
 # Wake Up
 
-The aim of this project is to generate Wake Up words.
+The aim of this project is to generate sentences in oreder to use them as WakeUp command.
 
 ## Architecture
 
