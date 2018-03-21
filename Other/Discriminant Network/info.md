@@ -9,3 +9,7 @@ https://github.com/tensorflow/nmt/
   year    = {2017},
 }
 
+https://arxiv.org/pdf/1709.08041.pdf
+
+Zen, Heiga, and Haşim Sak. "Unidirectional long short-term memory recurrent neural network with recurrent output layer for low-latency speech synthesis." Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on. IEEE, 2015.
+http://ieeexplore.ieee.org/abstract/document/7178816/
